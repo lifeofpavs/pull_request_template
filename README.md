@@ -11,4 +11,5 @@ With this repo, I tried to reflect important points for me when creating PRs.
 
 ## Here there is an example on how the template will look like:
 
-![Pull_request_template](https://user-images.githubusercontent.com/75724798/149671004-ae90cac1-569e-455b-a6c1-fb94e973b9c9.png)
+![Pull_request_template](https://user-images.githubusercontent.com/75724798/150116505-025abdce-367d-4e91-aa0b-bdeb9e0a95b5.png)
+
