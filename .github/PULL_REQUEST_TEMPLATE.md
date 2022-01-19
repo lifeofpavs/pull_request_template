@@ -12,7 +12,7 @@ _Use this section to provide context on the tests needed for the code change. Al
 
 # Visual Support 👁 (optional)
 
-_Use this section to provide visual support that can help reviewers understan better your changes_
+_Use this section to provide visual support that can help reviewers understand better your changes_
 _This is madnatory if the change modifies the UI. You can use [markdown tables](https://www.tablesgenerator.com/markdown_tables) to show better the change_
 
 ---
@@ -22,5 +22,4 @@ _This is madnatory if the change modifies the UI. You can use [markdown tables](
 Here is a list of them:
 
 - Keep the PR as small as possible, dividing it into different PRs if possible
-- Commits are descriptive and show information on the ticket journey
 - Explain reasons behind changes that might not be obvious or seem complex
